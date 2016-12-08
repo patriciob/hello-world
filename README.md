@@ -1,2 +1,5 @@
 # hello-world
-Testing GitHub features
+
+Hi Folks!
+
+Loving me some Github... Great tutorial bro!
