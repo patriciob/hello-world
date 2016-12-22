@@ -4,3 +4,5 @@
 !.gitignore
 !Preferences.sublime-settings
 !Package Control.sublime-settings
+!hello-world.html
+!Readme.md
